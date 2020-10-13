@@ -6,4 +6,6 @@ git is free software
 
 2cc
 
-在master上的修改。
+Creating a new branch is quick AND simple.
+
+在feature1上做的修改2
